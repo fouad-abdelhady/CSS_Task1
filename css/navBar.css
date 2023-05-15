@@ -44,3 +44,7 @@ header > ul > li:nth-child(6n){
     width: 15px;
     height: auto;
 }
+
+.headerListItem > div > ul > li:hover{
+    color:#f8d23b
+}
