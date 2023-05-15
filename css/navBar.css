@@ -39,3 +39,8 @@ header .headerListItem:hover{
 header > ul > li:nth-child(6n){
     margin-right: 20%;
 }
+
+.smallIcon{
+    width: 15px;
+    height: auto;
+}
